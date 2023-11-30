@@ -1,0 +1,48 @@
+.currency-converter-wrap {
+    position: absolute;
+    top: 28%;
+    left: 32%;
+    transform: translate(-50% -50%);
+    background: #fff;
+    width: 500px;
+    padding: 160px;
+    border-radius: 5px;
+    border: 1px solid violet;
+
+
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 700px;
+    background-color: violet;
+    background-size: cover;
+}
+
+.header {
+    position: absolute;
+    top: 30px;
+    left: 176px;
+}
+
+.currBox {
+    display: flex ;
+    align-items: flex-end;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    
+}
+.customSelect, .img {
+    margin: 0;
+    padding: 10px;
+}
+
+// .inputBox {
+//     .customSelect{ 
+//         margin: 10px;
+//     }
+//      .img{
+//         margin: 10px;
+//      } 
+// }
